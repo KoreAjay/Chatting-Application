@@ -8,7 +8,6 @@ import java.util.*;
 import java.text.*;
 import java.net.*;
 import java.io.*;
-
 public class Server implements ActionListener {
     
     JTextField text;
@@ -179,4 +178,5 @@ public class Server implements ActionListener {
             e.printStackTrace();
         }
     }
+
 }
