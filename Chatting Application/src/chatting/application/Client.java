@@ -9,6 +9,7 @@ import java.text.*;
 import java.net.*;
 import java.io.*;
 
+
 public class Client implements ActionListener {
     
     JTextField text;
@@ -183,4 +184,5 @@ public class Client implements ActionListener {
             e.printStackTrace();
         }
     }
+
 }
